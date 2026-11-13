@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "final_scientific_modules_byte_identical": true,
+  "final_runner_byte_identical": true,
+  "original_tests_byte_identical": true,
+  "notebook_code_cells_syntax_checked": 64,
+  "restricted_context_and_long_gloss_exact_matches": 0,
+  "aggregate_result_copies_byte_identical": true,
+  "formal_training_started": false,
+  "synthetic_cpu_tests": "53 passed",
+  "plot_reconstruction": "Five preview figures generated successfully",
+  "missing_private_config": "English error, exit status 2; no preparation or training started",
+  "not_executed": [
+    "Real-data notebooks",
+    "MPS hardware tests",
+    "Resource pilots",
+    "Formal neural training",
+    "Full 10000-draw statistical recomputation"
+  ],
+  "notes": "Public source changes are deployment paths, presentation metadata and report-template location only. Short synthetic fixtures are not research records."
+}

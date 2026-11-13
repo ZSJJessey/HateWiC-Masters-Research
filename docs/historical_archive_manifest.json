@@ -1,0 +1,81 @@
+{
+  "archive_sha256": "3a36160abbe05e38b54a54154f534db14247e68252f8eee2ff1baf207461feed",
+  "files": [
+    {
+      "path": "src/hatewic_formal/__init__.py",
+      "sha256": "fb9ea285ae9d9a75e53a7f6d8e583042331bfc21404d118977b532024a4eef65"
+    },
+    {
+      "path": "src/hatewic_formal/baselines.py",
+      "sha256": "4c2dbd74f18ea7869d489f00b48050bf9778717f9ca153300f110ca3a2319f5a"
+    },
+    {
+      "path": "src/hatewic_formal/config.py",
+      "sha256": "1cc9b2f177339200b697e1a52cb80f56cda149e380c65770e44668c5dba2c7a5"
+    },
+    {
+      "path": "src/hatewic_formal/data.py",
+      "sha256": "f5baf8805a249fd67dd03cb7530b47679743779faf38d92d864e1dfe68d4dee0"
+    },
+    {
+      "path": "src/hatewic_formal/evaluation.py",
+      "sha256": "a7795b0e6fb7ff631d78977b4988b9471f9cbc9d87f0c28995dd39623a890e68"
+    },
+    {
+      "path": "src/hatewic_formal/feature_extraction.py",
+      "sha256": "fd76f31048e2ec977f6bb1ebce7a6d7e220de9da1d95e0d2630e50e46871da26"
+    },
+    {
+      "path": "src/hatewic_formal/folds.py",
+      "sha256": "6bdc27bdfda5564f7aa88119b59ac7bff104f47d6570b33594954c43552fcdff"
+    },
+    {
+      "path": "src/hatewic_formal/geometry.py",
+      "sha256": "0cb765ffe20170f60bffd06da6d98e9a3406761e2193e7ee9a5338f86d2ca119"
+    },
+    {
+      "path": "src/hatewic_formal/models.py",
+      "sha256": "7b92a025a10076f26f124e4207b278f0500ccb8b978813f2c269ef09d90f822f"
+    },
+    {
+      "path": "src/hatewic_formal/reporting.py",
+      "sha256": "4f63f3e800b512f864af3cb0db472432f933a98700c0f40057bbc805e8c03943"
+    },
+    {
+      "path": "src/hatewic_formal/runner.py",
+      "sha256": "df06f1e0a65cc9e469f32cca6b634c3a82603ecd6137e6a5027d0e17041267e2"
+    },
+    {
+      "path": "src/hatewic_formal/statistics.py",
+      "sha256": "609869ecdf8b843258451ddd54f238fe8a971ed3d5a005b90fc6d9184977d2e4"
+    },
+    {
+      "path": "src/hatewic_formal/tokenization.py",
+      "sha256": "d397140436980795c05aa0b76f3d7338343a29dd09769bdaacb10aed68fd6259"
+    },
+    {
+      "path": "src/hatewic_formal/training.py",
+      "sha256": "cfe54e017b839d3c43241c31009d62aa3b0ec7f38e7399a61ff8799a261c3d97"
+    },
+    {
+      "path": "tests/test_data_baselines.py",
+      "sha256": "901a0d6e6135c6591d1394c457878037d6a793963f719d33b2467f15c4ab2784"
+    },
+    {
+      "path": "tests/test_evaluation.py",
+      "sha256": "3c23b9a7b5f5b95f2f628511adeddc2526f376261d3fd527d3f5c069e7212fe9"
+    },
+    {
+      "path": "tests/test_feature_extraction.py",
+      "sha256": "b146c7cb4ead77e93b86181032697570e8bea9a9d897ac7ba76828a84f8047c2"
+    },
+    {
+      "path": "tests/test_neural.py",
+      "sha256": "3ba057c7788a182c893a1dcf27e08309bb663bccf728a0157ab59b527dda0539"
+    },
+    {
+      "path": "tests/test_runner.py",
+      "sha256": "69a44d7a6535eeb51153709738b8c2f0c3dac597124c1aeb2b90f01f6576bab0"
+    }
+  ]
+}
