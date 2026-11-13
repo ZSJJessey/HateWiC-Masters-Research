@@ -1,0 +1,6 @@
+protocol,contrast,estimate,seeds
+random,macro_f1,0.033415148205706235,"[np.int64(13), np.int64(37), np.int64(73), np.int64(101), np.int64(149)]"
+random,heterogeneity_gap_reduction,-0.14497387114939886,"[np.int64(13), np.int64(37), np.int64(73), np.int64(101), np.int64(149)]"
+term_disjoint,macro_f1,0.028772696123299468,"[np.int64(13), np.int64(37), np.int64(73), np.int64(101), np.int64(149)]"
+term_disjoint,heterogeneity_gap_reduction,-0.04940565470488012,"[np.int64(13), np.int64(37), np.int64(73), np.int64(101), np.int64(149)]"
+cross_protocol,generalization_gap_reduction,-0.004642452082406767,"[np.int64(13), np.int64(37), np.int64(73), np.int64(101), np.int64(149)]"
