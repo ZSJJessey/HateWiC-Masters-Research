@@ -1,0 +1,12 @@
+# Minimal direct dependencies; the full original environment is requirements-local.lock.
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+torch==2.14.1
+transformers==5.20.2
+pytest==9.1.1
+nbformat==5.11.1
+matplotlib
+psutil
+python-docx
