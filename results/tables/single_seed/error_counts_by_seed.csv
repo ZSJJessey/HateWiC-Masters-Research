@@ -1,0 +1,9 @@
+protocol,model,seed,truth,support,errors
+random,full,13,0,1815,399
+random,full,13,1,1678,271
+random,no_gloss,13,0,1815,396
+random,no_gloss,13,1,1678,394
+term_disjoint,full,13,0,1815,359
+term_disjoint,full,13,1,1678,344
+term_disjoint,no_gloss,13,0,1815,444
+term_disjoint,no_gloss,13,1,1678,385

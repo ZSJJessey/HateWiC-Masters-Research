@@ -1,0 +1,6 @@
+protocol,contrast,estimate,seeds
+random,macro_f1,0.03469148561824764,[np.int64(13)]
+random,heterogeneity_gap_reduction,-0.13195956815669707,[np.int64(13)]
+term_disjoint,macro_f1,0.03594473225597539,[np.int64(13)]
+term_disjoint,heterogeneity_gap_reduction,-0.027489580344308484,[np.int64(13)]
+cross_protocol,generalization_gap_reduction,0.0012532466377277451,[np.int64(13)]
