@@ -1,0 +1,8 @@
+{
+  "raw": "/path/to/authorised/HateWiC_IndividualAnnos.csv",
+  "candidates": "/path/to/private/target_span_candidates_v03.csv",
+  "records": "/path/to/private/target_review_records.json",
+  "rules": "/path/to/private/rule_assigned_repeated_candidates.csv",
+  "ledger": "/path/to/private/position_status_ledger.csv",
+  "duplicate_pairs": "/path/to/private/near_duplicate_candidate_pairs.csv"
+}
