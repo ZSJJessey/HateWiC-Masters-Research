@@ -1,0 +1,3 @@
+backbone,analysis,supported_groups,total_groups,cosine_separation,silhouette_cosine,davies_bouldin
+bert,equal_weight_term_pos,133,990,0.021820174132798142,0.05749701722001327,1.9533500498807779
+hatebert,equal_weight_term_pos,133,990,0.01714801570862282,0.056016759695981674,1.9820068296551832
